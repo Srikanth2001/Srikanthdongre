@@ -127,16 +127,6 @@ Python • LLMs • RAG • AI Agents
 
 ---
 
-## 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Srikanthdongre&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
