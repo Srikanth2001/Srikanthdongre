@@ -115,16 +115,6 @@ Python • LLMs • RAG • AI Agents
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Srikanthdongre&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srikanthdongre&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
 ---
 
 ## 🌐 Connect With Me
